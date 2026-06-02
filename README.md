@@ -2,7 +2,7 @@
 
 ## Autor
 
-Tu Nombre Completo
+Hugo Serrano Calderón
 
 ## Descripción
 
